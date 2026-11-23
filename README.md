@@ -13,6 +13,9 @@ I am passionate about Data Analytics and enjoy working with data to discover mea
 - Tableau
 - SQL
 - Python
+## 📚 Currently Learning
+
+- Machine Learning
 
 ## 📊 Projects
 
@@ -24,16 +27,13 @@ My portfolio includes projects related to:
 - Interactive Dashboard Development
 - Exploratory Data Analysis
 
-## 📚 Currently Learning
-
-- Machine Learning
-
 ## 📊 My Projects
 ### 1. HR Analytics -Power BI 
 Employee Attrition & Performance Dashboard Using Power BI .
 
 [view Project]
-(
+(https://github.com/jayalakshmirnair854-bit/HR-Analytics-Power-BI)
+
 
 ## 🎯 Career Goal
 
