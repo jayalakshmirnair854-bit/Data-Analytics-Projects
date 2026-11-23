@@ -30,10 +30,11 @@ My portfolio includes projects related to:
 ## 📊 My Projects
 ### 1. HR Analytics -Power BI 
 Employee Attrition & Performance Dashboard Using Power BI .
-
 [view Project]
 (https://github.com/jayalakshmirnair854-bit/HR-Analytics-Power-BI)
-
+### 2.Telecom Customer Churn Analysis -Excel
+[view project]
+(
 
 ## 🎯 Career Goal
 
