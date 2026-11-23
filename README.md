@@ -28,6 +28,13 @@ My portfolio includes projects related to:
 
 - Machine Learning
 
+## 📊 My Projects
+### 1. HR Analytics -Power BI 
+Employee Attrition & Performance Dashboard Using Power BI .
+
+[view Project]
+(
+
 ## 🎯 Career Goal
 
 To build a career as a Data Analyst by continuously improving my technical, analytical, and problem-solving skills through practical projects.
