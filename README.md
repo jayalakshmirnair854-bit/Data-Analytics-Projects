@@ -34,7 +34,7 @@ Employee Attrition & Performance Dashboard Using Power BI .
 (https://github.com/jayalakshmirnair854-bit/HR-Analytics-Power-BI)
 ### 2.Telecom Customer Churn Analysis -Excel
 [view project]
-(
+(https://github.com/jayalakshmirnair854-bit/Telecom-Customer-Churn-Excel)
 
 ## 🎯 Career Goal
 
